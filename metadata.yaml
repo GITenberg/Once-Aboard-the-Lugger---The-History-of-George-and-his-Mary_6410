@@ -1,5 +1,8 @@
 _repo: Once-Aboard-the-Lugger---The-History-of-George-and-his-Mary_6410
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hutchinson, A. S. M. (Arthur Stuart-Menteth)
@@ -14,6 +17,8 @@ description: Published in 1908, Once Aboard the Lugger was Arthur S. Hutchinson'
   a commonplace couple. The first part is called Of George," the second Of Mary,"
   and the third through fifth discuss history, love, and war the book then ends with
   part six, Of Paradise Lost and Found."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6410#Once-Aboard-the-Lugger---The-History-of-George-and-his-Mary
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
